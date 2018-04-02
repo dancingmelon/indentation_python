@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+generated_results/
+.ipynb_checkpoints/
+*.ipynb
+testing_files_(mit)/
+.idea/
